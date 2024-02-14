@@ -1,0 +1,14 @@
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\CalculadoraMetodoStatico\CalculadoraMetodoStatico\bin\Debug\net6.0\CalculadoraMetodoStatico.exe
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\CalculadoraMetodoStatico\CalculadoraMetodoStatico\bin\Debug\net6.0\CalculadoraMetodoStatico.deps.json
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\CalculadoraMetodoStatico\CalculadoraMetodoStatico\bin\Debug\net6.0\CalculadoraMetodoStatico.runtimeconfig.json
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\CalculadoraMetodoStatico\CalculadoraMetodoStatico\bin\Debug\net6.0\CalculadoraMetodoStatico.dll
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\CalculadoraMetodoStatico\CalculadoraMetodoStatico\bin\Debug\net6.0\CalculadoraMetodoStatico.pdb
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\CalculadoraMetodoStatico\CalculadoraMetodoStatico\obj\Debug\net6.0\CalculadoraMetodoStatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\CalculadoraMetodoStatico\CalculadoraMetodoStatico\obj\Debug\net6.0\CalculadoraMetodoStatico.AssemblyInfoInputs.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\CalculadoraMetodoStatico\CalculadoraMetodoStatico\obj\Debug\net6.0\CalculadoraMetodoStatico.AssemblyInfo.cs
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\CalculadoraMetodoStatico\CalculadoraMetodoStatico\obj\Debug\net6.0\CalculadoraMetodoStatico.csproj.CoreCompileInputs.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\CalculadoraMetodoStatico\CalculadoraMetodoStatico\obj\Debug\net6.0\CalculadoraMetodoStatico.dll
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\CalculadoraMetodoStatico\CalculadoraMetodoStatico\obj\Debug\net6.0\refint\CalculadoraMetodoStatico.dll
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\CalculadoraMetodoStatico\CalculadoraMetodoStatico\obj\Debug\net6.0\CalculadoraMetodoStatico.pdb
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\CalculadoraMetodoStatico\CalculadoraMetodoStatico\obj\Debug\net6.0\CalculadoraMetodoStatico.genruntimeconfig.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\CalculadoraMetodoStatico\CalculadoraMetodoStatico\obj\Debug\net6.0\ref\CalculadoraMetodoStatico.dll

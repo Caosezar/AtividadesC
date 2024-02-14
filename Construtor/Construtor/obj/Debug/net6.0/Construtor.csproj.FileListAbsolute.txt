@@ -1,0 +1,14 @@
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Construtor\Construtor\bin\Debug\net6.0\Construtor.exe
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Construtor\Construtor\bin\Debug\net6.0\Construtor.deps.json
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Construtor\Construtor\bin\Debug\net6.0\Construtor.runtimeconfig.json
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Construtor\Construtor\bin\Debug\net6.0\Construtor.dll
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Construtor\Construtor\bin\Debug\net6.0\Construtor.pdb
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Construtor\Construtor\obj\Debug\net6.0\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Construtor\Construtor\obj\Debug\net6.0\Construtor.AssemblyInfoInputs.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Construtor\Construtor\obj\Debug\net6.0\Construtor.AssemblyInfo.cs
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Construtor\Construtor\obj\Debug\net6.0\Construtor.csproj.CoreCompileInputs.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Construtor\Construtor\obj\Debug\net6.0\Construtor.dll
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Construtor\Construtor\obj\Debug\net6.0\refint\Construtor.dll
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Construtor\Construtor\obj\Debug\net6.0\Construtor.pdb
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Construtor\Construtor\obj\Debug\net6.0\Construtor.genruntimeconfig.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Construtor\Construtor\obj\Debug\net6.0\ref\Construtor.dll

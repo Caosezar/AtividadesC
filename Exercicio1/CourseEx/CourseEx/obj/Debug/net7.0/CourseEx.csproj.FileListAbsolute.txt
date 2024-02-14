@@ -1,0 +1,14 @@
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Exercicio1\CourseEx\CourseEx\obj\Debug\net7.0\CourseEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Exercicio1\CourseEx\CourseEx\obj\Debug\net7.0\CourseEx.AssemblyInfoInputs.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Exercicio1\CourseEx\CourseEx\obj\Debug\net7.0\CourseEx.AssemblyInfo.cs
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Exercicio1\CourseEx\CourseEx\obj\Debug\net7.0\CourseEx.csproj.CoreCompileInputs.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Exercicio1\CourseEx\CourseEx\bin\Debug\net7.0\CourseEx.exe
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Exercicio1\CourseEx\CourseEx\bin\Debug\net7.0\CourseEx.deps.json
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Exercicio1\CourseEx\CourseEx\bin\Debug\net7.0\CourseEx.runtimeconfig.json
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Exercicio1\CourseEx\CourseEx\bin\Debug\net7.0\CourseEx.dll
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Exercicio1\CourseEx\CourseEx\bin\Debug\net7.0\CourseEx.pdb
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Exercicio1\CourseEx\CourseEx\obj\Debug\net7.0\CourseEx.dll
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Exercicio1\CourseEx\CourseEx\obj\Debug\net7.0\refint\CourseEx.dll
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Exercicio1\CourseEx\CourseEx\obj\Debug\net7.0\CourseEx.pdb
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Exercicio1\CourseEx\CourseEx\obj\Debug\net7.0\CourseEx.genruntimeconfig.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\Exercicio1\CourseEx\CourseEx\obj\Debug\net7.0\ref\CourseEx.dll

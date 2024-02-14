@@ -1,0 +1,7 @@
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\DevEvents\DevEvents.API\obj\Debug\net7.0\DevEvents.API.csproj.AssemblyReference.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\DevEvents\DevEvents.API\obj\Debug\net7.0\DevEvents.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\DevEvents\DevEvents.API\obj\Debug\net7.0\DevEvents.API.AssemblyInfoInputs.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\DevEvents\DevEvents.API\obj\Debug\net7.0\DevEvents.API.AssemblyInfo.cs
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\DevEvents\DevEvents.API\obj\Debug\net7.0\DevEvents.API.csproj.CoreCompileInputs.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\DevEvents\DevEvents.API\obj\Debug\net7.0\DevEvents.API.MvcApplicationPartsAssemblyInfo.cs
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\DevEvents\DevEvents.API\obj\Debug\net7.0\DevEvents.API.MvcApplicationPartsAssemblyInfo.cache

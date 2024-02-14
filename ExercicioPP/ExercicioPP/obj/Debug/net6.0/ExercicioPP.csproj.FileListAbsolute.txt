@@ -1,0 +1,14 @@
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\ExercicioPP\ExercicioPP\bin\Debug\net6.0\ExercicioPP.exe
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\ExercicioPP\ExercicioPP\bin\Debug\net6.0\ExercicioPP.deps.json
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\ExercicioPP\ExercicioPP\bin\Debug\net6.0\ExercicioPP.runtimeconfig.json
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\ExercicioPP\ExercicioPP\bin\Debug\net6.0\ExercicioPP.dll
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\ExercicioPP\ExercicioPP\bin\Debug\net6.0\ExercicioPP.pdb
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\ExercicioPP\ExercicioPP\obj\Debug\net6.0\ExercicioPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\ExercicioPP\ExercicioPP\obj\Debug\net6.0\ExercicioPP.AssemblyInfoInputs.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\ExercicioPP\ExercicioPP\obj\Debug\net6.0\ExercicioPP.AssemblyInfo.cs
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\ExercicioPP\ExercicioPP\obj\Debug\net6.0\ExercicioPP.csproj.CoreCompileInputs.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\ExercicioPP\ExercicioPP\obj\Debug\net6.0\ExercicioPP.dll
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\ExercicioPP\ExercicioPP\obj\Debug\net6.0\refint\ExercicioPP.dll
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\ExercicioPP\ExercicioPP\obj\Debug\net6.0\ExercicioPP.pdb
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\ExercicioPP\ExercicioPP\obj\Debug\net6.0\ExercicioPP.genruntimeconfig.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\Atividades\ExercicioPP\ExercicioPP\obj\Debug\net6.0\ref\ExercicioPP.dll
